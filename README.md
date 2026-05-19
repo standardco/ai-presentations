@@ -7,7 +7,7 @@ If you're looking for our general AI presentations, you can look in the main fol
 ## Schedule
 
 | Month | Date | Topic |
-|-------|------|-------|------|
+|-------|------|-------|
 | March | 2026-03-26 | Claude Cowork | 
 | April | 2026-04-30 | Claude Standards | 
 | May | MCPs | | |
