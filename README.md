@@ -1,14 +1,16 @@
 # Standard Co - 6 Month AI Series
 
-Presentation slides from the Standard Co 6 Month AI Series.
+Presentation slides from the Standard Co 6 Month AI Series. You can find the presentations in the "monthly_series" folder.
+
+If you're looking for our general AI presentations, you can look in the main folder
 
 ## Schedule
 
-| Month | Date | Topic | File |
+| Month | Date | Topic |
 |-------|------|-------|------|
-| March | 2026-03-26 | Claude Cowork | [Slides](Standard%20Co%20-%20Claude%20Cowork%20-%20March%2026%202026.pptx) |
-| April | 2026-04-30 | Claude Standards | [Slides](Standard%20Code%20-%20Claude%20Standards%20-%20April%2030%202026.pptx) |
-| May | TBD | | |
-| June | TBD | | |
+| March | 2026-03-26 | Claude Cowork | 
+| April | 2026-04-30 | Claude Standards | 
+| May | MCPs | | |
+| June | Building human centered agents | | |
 | July | TBD | | |
 | August | TBD | | |
