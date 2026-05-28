@@ -8,9 +8,9 @@ If you're looking for our general AI presentations, you can look in the main fol
 
 | Month | Date | Topic |
 |-------|------|-------|
-| March | 2026-03-26 | Claude Cowork | 
-| April | 2026-04-30 | Claude Standards | 
-| May | MCPs | | |
-| June | Building human centered agents | | |
+| March | 2026-03-26 | Claude Cowork |
+| April | 2026-04-30 | Claude Standards |
+| May | 2026-05-28 | Claude Connectors |
+| June | TBD | Building human centered agents |
 | July | TBD | | |
 | August | TBD | | |
