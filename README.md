@@ -11,6 +11,6 @@ If you're looking for our general AI presentations, you can look in the main fol
 | March | 2026-03-26 | Claude Cowork | https://www.loom.com/share/8ef4f0879d6c457dbcb513dc7ad7b80f |
 | April | 2026-04-30 | Claude Standards | (whoops, we forgot to record. sorry! | 
 | May | 2026-05-28 | Claude Connectors | https://www.loom.com/share/ae40c63b4d7e46c190a89cab8bef191f |
-| June | TBD | Building human centered agents | |
+| June | 2026-06-24 | Building human centered agents | https://www.youtube.com/watch?v=EopCgppBwfQ&t=8s |
 | July | TBD | | | |
 | August | TBD | | |
